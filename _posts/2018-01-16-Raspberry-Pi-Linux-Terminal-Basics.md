@@ -1,5 +1,3 @@
-# Learning to use the Linux terminal using a Raspberry Pi
-
 ## Log 2018-01-04
 
 A new adventure begins. Let me summarize what I am doing and where I currently am in my learning process:
