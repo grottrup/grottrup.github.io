@@ -37,26 +37,26 @@ Today I want to learn tmux.
 	
 ## Log 2018-01-16
 
-### SHH
+### SSH
 
-To set up the Raspberry Pi for SHH you have to go through a few steps.
+To set up the Raspberry Pi for SSH you have to go through a few steps.
 
-#### Enable SHH on the Pi
+#### Enable SSH on the Pi
 
-SHH is by default disabled for the Raspberry Pi. Therefore you need the enable it. Use the following command to access the configuration of the Pi:
+SSH is by default disabled for the Raspberry Pi. Therefore you need the enable it. Use the following command to access the configuration of the Pi:
 
 	sudo raspi-config
 	
 Use the arrow keys to navigate within the configuration tool. Navigate to `Interfacing Options` and press `Enter`.
 
-Now navigate to `SHH` and press `Enter`. You will now be asked `Would you like the SSH server to be enabled?`. Navigate to `<Yes>` and press `Enter`. You will now be informed that it has been enabled. Press `Enter` to return to the menu. Within the Configuration Tool menu simply press `Esc` to exit and return to the terminal.
+Now navigate to `SSH` and press `Enter`. You will now be asked `Would you like the SSH server to be enabled?`. Navigate to `<Yes>` and press `Enter`. You will now be informed that it has been enabled. Press `Enter` to return to the menu. Within the Configuration Tool menu simply press `Esc` to exit and return to the terminal.
 
 The default login credentials of the Raspberry Pi is:
 
 	Username: pi
 	Password: raspberry
 
-Using the default is a security issue as anyone who know of the common login of a Raspberry Pi can now access it through SHH. Therefore you most likely would like to change your password. You do this with:
+Using the default is a security issue as anyone who know of the common login of a Raspberry Pi can now access it through SSH. Therefore you most likely would like to change your password. You do this with:
 	
 	sudo -i
 
