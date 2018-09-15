@@ -22,7 +22,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 ## Extra
 
-To navigate to your Windows folder system by writing 
+Navigate to your Windows folder system by writing:
 
 ``` Bash
 
