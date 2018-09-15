@@ -1,6 +1,6 @@
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-``` PoweShell
+``` PowerShell
 
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
