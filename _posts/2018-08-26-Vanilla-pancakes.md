@@ -1,4 +1,4 @@
-These are my favorite pancakes. It is a modification of an old recipe that has been taken of the internet, so I decided to preserve it on my own page. It is a flat pancake like crêpe.
+These are my favorite pancakes. It is a modification of an old recipe that has been taken off the internet, so I decided to preserve it on my own page. It is a flat pancake like crêpe.
 
 This portion is recommended for up to 4 people
 
