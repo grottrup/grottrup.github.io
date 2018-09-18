@@ -29,3 +29,11 @@ Navigate to your Windows folder system by writing:
 cd /mnt
 
 ```
+
+Return to the path for you Linux subsystem by writting:
+
+``` Bash
+
+cd ~
+
+```
