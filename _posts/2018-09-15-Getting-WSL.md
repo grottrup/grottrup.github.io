@@ -30,7 +30,7 @@ cd /mnt
 
 ```
 
-Return to the path for you Linux subsystem by writting:
+Return to the path of the Linux subsystem by writting:
 
 ``` Bash
 
