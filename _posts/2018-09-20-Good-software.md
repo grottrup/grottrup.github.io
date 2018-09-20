@@ -2,15 +2,15 @@
 (Points taken from Ib Havn)
 
 ### Designed Well
-– High Cohesion
-– Loose Coupling
-– Independent modules
-– Clear Interfaces
-– Little Redundancy
-– Layered design
-– Designed for Test
-– Extensible
-– Portable
+- High Cohesion
+- Loose Coupling
+- Independent modules
+- Clear Interfaces
+- Little Redundancy
+- Layered design
+- Designed for Test
+- Extensible
+- Portable
 
 ### Maintainable
 “What makes the difference between working code and great code is
@@ -18,43 +18,43 @@ maintainability” - David Rachamim
 
 “You don’t really know how good someone’s code is until you try to change it” – Kristopher Johnson
 
-– Well documented
-– Code is readable – stick to coding and naming standards
-– Code is simple – KISS Keep it simple stupid!
-– Testable
-– Dependency injection
-– Encapsulation
-– No “gold plating”
-– Only optimised if needed
-– Automated tests
+- Well documented
+- Code is readable – stick to coding and naming standards
+- Code is simple – KISS Keep it simple stupid!
+- Testable
+- Dependency injection
+- Encapsulation
+- No “gold plating”
+- Only optimised if needed
+- Automated tests
 
 ### It works
 “Beautiful readable , testable, maintainable code that fails to meet the
 customer needs is still a failure” - codingdave
 
 - As specified by customer
-– It solves the intended problems
-– Users wants to use it
-– It’s stable
+- It solves the intended problems
+- Users wants to use it
+- It’s stable
 
 ## Testing
 
 ### Black box testing
-– System Tests
-– Acceptance Tests
+- System Tests
+- Acceptance Tests
 ### Test Driven Development (TDD)
 ### White box testing
-– Unit Tests
-– ZOMBIES
+- Unit Tests
+- ZOMBIES
 
 ZOMBIES Spelled out:
-– Z – Zero
-– O – One
-– M – Many (or More complex)
-– B – Boundary Behaviors
-– I – Interface definition
-– E – Exercise Exceptional behavior
-– S – Simple Scenarios, Simple Solutions
+- Z – Zero
+- O – One
+- M – Many (or More complex)
+- B – Boundary Behaviors
+- I – Interface definition
+- E – Exercise Exceptional behavior
+- S – Simple Scenarios, Simple Solutions
 
 http://blog.wingman-sw.com/archives/677#more-677
 
