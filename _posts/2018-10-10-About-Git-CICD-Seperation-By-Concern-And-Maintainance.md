@@ -23,4 +23,8 @@ https://www.reddit.com/r/devops/comments/8vgqhq/what_do_you_prefer_and_why_mono_
     
 https://chengl.com/multirepo-vs-monorepo/
 
+## Anti patterns
+
+http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
+
 
