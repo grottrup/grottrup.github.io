@@ -27,4 +27,5 @@ https://chengl.com/multirepo-vs-monorepo/
 
 http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 
+http://www.ben-morris.com/entity-framework-anti-patterns-how-not-to-use-an-orm-with-sql-server/
 
