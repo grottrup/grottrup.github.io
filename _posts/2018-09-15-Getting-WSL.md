@@ -4,7 +4,7 @@ Windows Subsystem for Linux (WSL) enables using the Linux terminal within your W
 
 See the official guide by Microsoft or follow the steps below: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-1. Run the following comman as administator in PowerShell:
+1. Run the following command as administator in PowerShell:
 
 ``` PowerShell
 
@@ -48,7 +48,7 @@ Visual Studio Code ("VS Code" or just "Code" abbreviated) is an editor or light 
 2. Navigate to the Extensions Marketplace.
 3. Search for "WSL" or "Remote - WSL" in the marketplace or download the extension here: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl 
 4. Once installed you can now launch it from `View>Command Palette...` the shortcut for opening it is `Ctrl+Shift+P`.
-5. The Comman Palette should now seachable in a field in top of the VS Code Window. A `>` should appear in the start of the search field.
+5. The Command Palette should now seachable in a field in top of the VS Code Window. A `>` should appear in the start of the search field.
 6. Search for "Remote-WSL: New Window" and press enter once it has been selected.
 7. Launch the terminal within VS Code to check that you are within the WSL environment. Open it using hte menu in `View>Terminal` or by using the shortcut `Ctrl+æ` (Danish keyboards)
 8. You should now see a Bash terminal where the name you chose in the WSL installation step should appear.
